@@ -38,17 +38,29 @@ o Implementación modular y extensible: Diseñado para adaptarse fácilmente y a
 ## 📚 Bibliografía
 o  F. John. *Partial differential equations*, volume 1. Springer, 1991.
 	[ Enlace.](https://es.1lib.sk/book/5002489/5a740a/partial-differential-equations.html)
+ 
 o  Randall J. LeVeque. *Finite Difference Methods for Ordinary and Partial Differential Equations*. Siam, 2007.
+
 o Salsa S., *Cap.Diffusion, Partial Differential Equations in Action*, UNITEXT, vol 86. Springer, Cham, 2015.
+
 o Python Software Foundation. [*PYTHON*.](https://www.python.org/)
+
 o NumPy documentation. [*NUMPY*.](https://numpy.org/)
+
 o PyTorch documentation. [*PYTORCH*.](https://pytorch.org/)
+
 o SciPy documentation. [*SCIPY*.](https://scipy.org/)
+
 o TensorFlow documentation. [*TENSORFLOW*.](https://www.tensorflow.org/)
+
 o Keras documentation. [*KERAS*.](https://keras.io/)
+
 o Vuong Dang. *Learning the Waves: Solving the 2D Wave Equation with Physics-Informed Neural Networks*, Repositorio GitHub, 2025.[ Enlace.](https://github.com/vuongdang97/Portfolio-AI/tree/main)
+
 o Paul C. Fife. *Reaction-Diffusion Equations and Their Applications to Biology*. Springer, 1979.
+
 o Ferdinand P. Beer, E. Russell Johnston, John T. DeWolf. *Mechanics of Materials*. McGraw-Hill, 2012 (edition 7).
+
 o Walter A. Strauss. *Partial Differential Equations: An Introduction*. Wiley, 2007 (edition 2).
 
 
