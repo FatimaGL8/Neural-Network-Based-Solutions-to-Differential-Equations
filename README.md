@@ -26,7 +26,7 @@ o Modelo Fisher-Kolmogorov (concentración tumoral) 🧬🦠
 
 o Deformación estructural de una viga (en voladizo) 🏗️
 
-### 🔍 ¿Qué encontrarás aquí?
+## 🔍 ¿Qué encontrarás aquí?
 o Modelos neuronales robustos: Arquitecturas diseñadas para resolver ecuaciones diferenciales con y sin condiciones iniciales y de contorno.
 
 o Ejemplos prácticos: Casos clásicos y aplicaciones reales que muestran el potencial de las PINNs para resolver problemas complejos.
@@ -34,3 +34,22 @@ o Ejemplos prácticos: Casos clásicos y aplicaciones reales que muestran el pot
 o Visualizaciones completas: Gráficas y animaciones 2D y 3D que permiten comparar la predicción de la red neuronal con soluciones exactas o aproximaciones numéricas.
 
 o Implementación modular y extensible: Diseñado para adaptarse fácilmente y ampliarse a nuevos problemas físicos y matemáticos. Permite cambiar la arquitectura de la red, el número de iteraciones, la función de activación, los optimizadores, así como la cantidad de puntos de entrenamiento, facilitando una personalización completa según las necesidades del problema.
+
+## 📚 Bibliografía
+o  F. John. *Partial differential equations*, volume 1. Springer, 1991.
+	[ Enlace.](https://es.1lib.sk/book/5002489/5a740a/partial-differential-equations.html)
+o  Randall J. LeVeque. *Finite Difference Methods for Ordinary and Partial Differential Equations*. Siam, 2007.
+o Salsa S., *Cap.Diffusion, Partial Differential Equations in Action*, UNITEXT, vol 86. Springer, Cham, 2015.
+o Python Software Foundation. [*PYTHON*.](https://www.python.org/)
+o NumPy documentation. [*NUMPY*.](https://numpy.org/)
+o PyTorch documentation. [*PYTORCH*.](https://pytorch.org/)
+o SciPy documentation. [*SCIPY*.](https://scipy.org/)
+o TensorFlow documentation. [*TENSORFLOW*.](https://www.tensorflow.org/)
+o Keras documentation. [*KERAS*.](https://keras.io/)
+o Vuong Dang. *Learning the Waves: Solving the 2D Wave Equation with Physics-Informed Neural Networks*, Repositorio GitHub, 2025.[ Enlace.](https://github.com/vuongdang97/Portfolio-AI/tree/main)
+o Paul C. Fife. *Reaction-Diffusion Equations and Their Applications to Biology*. Springer, 1979.
+o Ferdinand P. Beer, E. Russell Johnston, John T. DeWolf. *Mechanics of Materials*. McGraw-Hill, 2012 (edition 7).
+o Walter A. Strauss. *Partial Differential Equations: An Introduction*. Wiley, 2007 (edition 2).
+
+
+ 
