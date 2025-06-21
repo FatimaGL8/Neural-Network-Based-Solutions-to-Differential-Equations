@@ -1,9 +1,12 @@
 # Solución de EDOs y EDPs con Redes Neuronales (PINNs) 🤖
 ## 📖 Descripción
-¡Bienvenido a este repositorio! Aquí encontrarás códigos para la aproximación y solución de Ecuaciones Diferenciales Ordinarias (EDOs), Sistemas Diferenciales Ordinarios (SDOs) y Ecuaciones en Derivadas Parciales (EDPs) utilizando redes neuronales, con un enfoque especial en las PINNs (Physics-Informed Neural Networks).
+¡Bienvenido a este repositorio! Aquí encontrarás códigos para la aproximación y solución de Ecuaciones Diferenciales Ordinarias (EDOs), Sistemas Diferenciales Ordinarios (SDOs) y Ecuaciones en Derivadas Parciales (EDPs) utilizando técnicas de ajuste y redes neuronales, con un enfoque especial en las PINNs (Physics-Informed Neural Networks).
 
 ### 🗂️ ¿Qué incluye este repositorio?
-#### 🎯 Aproximación utilizando métodos numéricos ⚙️
+#### ⚙️ Aproximación utilizando técnicas de interpolación o ajuste
+Se utilizan técnicas de interpolación o ajuste, aplicadas a casos simples como una EDO o a casos más complejos como puede ser un SDO o una EDP.
+
+#### 🎯 Aproximación utilizando métodos numéricos
 En algunos de los problemas se utilizan diferencias finitas o métodos como el Runge-Kutta (de 3º orden) para aproximar la solución, si no se puede obtener la solución exacta.
 
 #### 🧠⚡ Solución mediante PINNs 
