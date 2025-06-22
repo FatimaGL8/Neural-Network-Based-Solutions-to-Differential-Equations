@@ -4,7 +4,11 @@
 
 ### 🗂️ ¿Qué incluye este repositorio?
 #### ⚙️ Aproximación utilizando técnicas de interpolación o ajuste
-Se utilizan técnicas de interpolación o ajuste, aplicadas a casos simples como una EDO o a casos más complejos como puede ser un SDO o una EDP.
+Se utilizan técnicas de interpolación o ajuste, aplicadas a casos simples como una EDO o a casos más complejos como puede ser un SDO. Entre los casos implementados se incluyen:
+
+o EDO trigonométrica (simple)
+
+o SDO (modelo de FitzHugh–Nagumo)💡
 
 #### 🎯 Aproximación utilizando métodos numéricos
 En algunos de los problemas se utilizan diferencias finitas o métodos como el Runge-Kutta (de 3º orden) para aproximar la solución, si no se puede obtener la solución exacta.
