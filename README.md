@@ -63,5 +63,10 @@ o Ferdinand P. Beer, E. Russell Johnston, John T. DeWolf. *Mechanics of Material
 
 o Walter A. Strauss. *Partial Differential Equations: An Introduction*. Wiley, 2007 (edition 2).
 
+o Cecilia Cespedes. *Inversión de datos sísmicos con PINN (Physics-Informed Neural Networks)*. Repositorio en GitHub, 2023.[ Enlace.](https://github.com/Ceciliaces/Inversion-de-datos-sismicos-PINN)
+
+o Juan David Toscano. *Learning Scientific Machine Learning: Residual-Based Attention PINNs, PIKANs y DeepONets*. Repositorio en GitHub, 2023.[ Enlace.](https://github.com/jdtoscano94/Learning-Scientific_Machine_Learning_Residual_Based_Attention_PINNs_PIKANs_DeepONets)
+
+o omniscientoctopus. *Physics-Informed Neural Networks*. Repositorio GitHub, 2021.[ Enlace.](https://github.com/omniscientoctopus/Physics-Informed-Neural-Networks/tree/main)
 
  
