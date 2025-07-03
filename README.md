@@ -28,7 +28,7 @@ o Ecuación de calor unidimensional 🔥
 
 o Modelo Fisher-Kolmogorov (concentración tumoral) 🧬🦠
 
-o Deformación estructural de una viga (en voladizo) 🏗️
+o Sistema de Lorenz: Caos y Atractor en Movimiento 🔄🌀
 
 ## 🔍 ¿Qué encontrarás aquí?
 o Modelos neuronales robustos: Arquitecturas diseñadas para resolver ecuaciones diferenciales con y sin condiciones iniciales y de contorno.
@@ -40,13 +40,14 @@ o Visualizaciones completas: Gráficas y animaciones 2D y 3D que permiten compar
 o Implementación modular y extensible: Diseñado para adaptarse fácilmente y ampliarse a nuevos problemas físicos y matemáticos. Permite cambiar la arquitectura de la red, el número de iteraciones, la función de activación, los optimizadores, así como la cantidad de puntos de entrenamiento, facilitando una personalización completa según las necesidades del problema.
 
 ## 📚 Bibliografía
-o F. P. Beer, E. Russell Johnston, J. T. DeWolf. *Mechanics of Materials*. McGraw-Hill, 2012 (edition 7).
 
 o C. Cespedes. *Inversión de datos sísmicos con PINN (Physics-Informed Neural Networks)*. Repositorio en GitHub, 2023.[ Enlace.](https://github.com/Ceciliaces/Inversion-de-datos-sismicos-PINN)
 
 o V. Dang. *Learning the Waves: Solving the 2D Wave Equation with Physics-Informed Neural Networks*, Repositorio GitHub, 2025.[ Enlace.](https://github.com/vuongdang97/Portfolio-AI/tree/main)
 
 o P. C. Fife. *Reaction-Diffusion Equations and Their Applications to Biology*. Springer, 1979.
+
+o P. Flores. *Lorenz system*. Repositorio de GitHub, 2022.[ Enlace.](https://github.com/paoloose/lorenz-attractor)
 
 o  F. John. *Partial differential equations*, volume 1. Springer, 1991.[ Enlace.](https://es.1lib.sk/book/5002489/5a740a/partial-differential-equations.html)
 
